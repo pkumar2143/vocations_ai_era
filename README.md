@@ -1,0 +1,2 @@
+# vocations_ai_era
+It seems AI is poised to replace a number of occupations related to "think"-heavy tasks, rather than "physical"-heavy tasks. As such it stands to reason that folks will "follow the money" and seek more manually-intense jobs. This long-term project aims at look at admission/cost trends for vocational schools in the U.S. We will define the data requirements, scrape, explore, analyze, visualize, in a smart way. But it will be over time.
